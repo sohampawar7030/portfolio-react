@@ -1,0 +1,39 @@
+{
+  "name": "samruddhi-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@aws-amplify/api": "^6.3.21",
+    "@aws-amplify/api-graphql": "^4.8.2",
+    "aws-amplify": "^6.15.9",
+    "emailjs-com": "^3.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "react-type-animation": "^3.2.0",
+    "scrollreveal": "^4.0.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

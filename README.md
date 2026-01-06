@@ -1,4 +1,4 @@
-# Samruddhi Kangude Portfolio - React Website
+# Portfolio - React Website
 
 A modern, responsive portfolio website built with React.js showcasing projects, skills, education, and certifications.
 
